@@ -259,6 +259,8 @@ private:
   /// Number of RERRs used for RERR rate control
   uint16_t m_rerrCount;
 
+  uint32_t m_congestionCounter;
+
 private:
   /// Start protocol operation
   void Start ();
