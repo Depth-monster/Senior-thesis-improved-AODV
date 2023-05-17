@@ -1,6 +1,9 @@
 # Senior-thesis-improved-AODV
 default AODV - Improved AODV protocols comparison
 
+Коротко: 
+1) Была изменена структура протокола AODV. А конкретно, добавлена метка предотвращения перегрузки к пакету RREP в AODV. Благодаря изменениям, удалось избежать большого количества потерянных пакетов при передаче данных, когда количество узлов в пределе 50. С графиками можно ознакомиться ниже:
+
 ![image](https://github.com/Depth-monster/Senior-thesis-improved-AODV/assets/122405130/268b47fe-e8d8-41db-99fd-c02b5e9b0f4e)
 
 ![image](https://github.com/Depth-monster/Senior-thesis-improved-AODV/assets/122405130/1368997a-8d96-42f3-83da-6a05d4d70c01)
