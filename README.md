@@ -1,4 +1,5 @@
-# Senior-thesis-improved-AODV
+# Бакалаврская работа
+## Исследование протоколов маршрутизации MANET
 default AODV - Improved AODV protocols comparison
 
 Коротко: 
