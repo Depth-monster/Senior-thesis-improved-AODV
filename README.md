@@ -1,5 +1,5 @@
 # Senior-thesis-improved-AODV
-Improved AODV protocol
+default AODV - Improved AODV protocols comparison
 
 ![image](https://github.com/Depth-monster/Senior-thesis-improved-AODV/assets/122405130/268b47fe-e8d8-41db-99fd-c02b5e9b0f4e)
 
